@@ -28,7 +28,7 @@ The Digital Audio Effects Processor is a Python application designed to apply au
 
 ``` bash
 
-git clone https://github.com/your-repository/audio-effects-processor.git
+git clone https://github.com/AstronDaniel/audio-effects-processor.git
 cd audio-effects-processor 
 ```
 2. ##### Install Dependencies:
